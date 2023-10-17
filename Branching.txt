@@ -1,0 +1,3 @@
+Branching 
+git branch feature1
+git checkout feature 1
