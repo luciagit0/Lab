@@ -8,7 +8,7 @@ git push -u origin main
 
 # ReadMe File for Lab Repo
 Hello, my name is **Lucía**
-This is the *ReadMe* file to my lab repo
+This is the *ReadMe* file to my lab *repo*
 
 This folder was created to learn using ***Git & GitHub***
 
