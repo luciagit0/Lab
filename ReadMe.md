@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "# Lab" >> README.md
 git init
 git add README.md
@@ -10,7 +11,7 @@ git push -u origin main
 <<<<<<< HEAD
 Hello! My name is **Lucía**
 =======
-Hello! my name is **Lucía**
+Hello! My name is **Lucía**
 >>>>>>> practice3
 This is the *ReadMe* file to my lab *repo*
 
@@ -18,3 +19,6 @@ This folder was created to learn using ***Git & GitHub***
 
 Thanks for reading! 
 ![Happy Dog](https://th.bing.com/th/id/R.b4baa9d92cf8f09a9360e6419d9a6fc2?rik=w2%2fT7HKu5d5Hfw&riu=http%3a%2f%2feskipaper.com%2fimages%2fhappy-dog-2.jpg&ehk=HpSgd2%2bsrAAo0hbBhWTA30VsaeX8uZsE3nqA2Q7C7I0%3d&risl=&pid=ImgRaw&r=0)
+=======
+Please insert code explanation:
+>>>>>>> practice2.1
