@@ -7,7 +7,11 @@ git remote add origin https://github.com/luciagit0/Lab.git
 git push -u origin main
 
 # ReadMe File for Lab Repo
+<<<<<<< HEAD
 Hello! My name is **Lucía**
+=======
+Hello! my name is **Lucía**
+>>>>>>> practice3
 This is the *ReadMe* file to my lab *repo*
 
 This folder was created to learn using ***Git & GitHub***
